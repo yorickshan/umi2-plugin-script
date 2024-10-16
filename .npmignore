@@ -1,0 +1,8 @@
+src/
+.github/
+.fatherrc.js
+.gitignore
+.node-version
+.editorconfig
+.npmignore
+publish.sh
